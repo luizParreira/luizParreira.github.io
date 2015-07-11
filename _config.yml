@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://luizParreira.github.io
+title: Luiz Parreira
+email: luizfilipester@gmail.com
+author: Luiz Parreira
+description: My personal portfolio and blog
+paginate: 5
+google_analytics: 
